@@ -3,4 +3,23 @@
 # only main files contain this front matter, not partials.
 ---
 
+$title-font-size: 1.6rem;
+$medium-font-size: 0.2rem !default;
+$large-font-size: 1.0rem !default;
+
+$sidebar-width: 14rem !default;
+$sidebar-decoration: underline;
+$sidebar-title-color: black;
+$sidebar-bg-color: white; //#FAF2E1;
+$sidebar-bg-image: none; //radial-gradient( circle farthest-corner at 12.3% 19.3%,  rgba(85,88,218,1) 0%, rgba(95,209,249,1) 100.2% );
+$sidebar-fg-color: black; //white !default;
+
+$link-color: #0902b2;
+$sidebar-sticky: false;
+$border-line-property: none; //2px dotted #0902b2; // #FAF2E1;
+
+$title-font-family: 'Open Sans', sans-serif;
+$sans-serif-font-family: 'Open Sans', sans-serif; //"Ubuntu", sans-serif;
+$serif-font-family: "Abril Fatface", serif;
+
 @import "hydeout";
