@@ -25,3 +25,23 @@ sidebar_sort_order: 1
 
 ### Professional Experience
 
+### Technical Skills
+* Programming Languages: C, C++, Python
+* Machine Learning Frameworks: PyTorch, TensorFlow
+* Deep Learning Frameworks: Keras
+* Data Analysis Tools: Pandas, NumPy, Matplotlib, Seaborn
+* Version Control: Git
+* Operating Systems: Windows, Linux
+
+### Languages
+* Chinese (Native)
+* Korean (Native)
+* English (IELTS 7.0)
+
+
+### Interests
+* Travel
+* Photography
+* Volleyball
+* Music
+
