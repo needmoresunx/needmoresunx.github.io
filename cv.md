@@ -8,7 +8,7 @@ sidebar_sort_order: 1
 <!-- You can download pdf version here: CV [[pdf]](/assets/documents/) -->
 
 ### Education
-* **Seoul National University** (2021-2025)
+* **University of Science & Technology of China (USTC)** (2021-2025)
 	* Major: Artificial Intelligence
 	* GPA: 83.66/100
 
