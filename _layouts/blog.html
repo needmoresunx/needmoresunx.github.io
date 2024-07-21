@@ -1,0 +1,44 @@
+---
+layout: default
+---
+
+<header>
+  <!-- <h1 class="page-title">{{ page.title }}</h1> -->
+</header>
+<br>
+<div class="content">
+  {{ content }}
+
+  {% assign category = page.category | default: page.title %}
+  
+  {% for post in site.categories[category] %}
+  <article class="post-body">
+    <h3 class="post-title">
+      <a href="{{ site.baseurl }}{{ post.url }}">
+        {{ post.title }}
+      </a>
+    </h3>
+    {% include post-meta-min.html post=post %}
+
+    {% if post.excerpt %}
+      {{ post.excerpt }}
+    {% endif %}
+
+    {% if post.excerpt %}
+      {% capture content_words %}
+        {{ post.content | number_of_words }}
+      {% endcapture %}
+      {% capture excerpt_words %}
+        {{ post.excerpt | number_of_words }}
+      {% endcapture %}
+
+      {% if content_words != excerpt_words %}
+        <a href="{{ site.baseurl }}{{ post.url }}">More &hellip;</a>
+      {% endif %}
+    {% endif %}
+  </article>
+  {% endfor %}
+
+  {% include comments.html %}
+
+</div>
