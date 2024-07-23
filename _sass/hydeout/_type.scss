@@ -9,10 +9,10 @@ h4,
 h5,
 h6,
 .site-title {
-  color: $heading-color;
+  margin-bottom: $heading-spacing-bottom;
   font-weight: 600;
   line-height: 1.25;
-  margin-bottom: $heading-spacing;
+  color: $heading-color;
   text-rendering: optimizeLegibility;
 }
 
@@ -21,25 +21,25 @@ h1 {
 }
 
 h2 {
+  margin-top: 3rem;
   font-size: 1.5rem;
-  margin-top: 1rem;
 }
 
 h3 {
+  margin-top: 2.5rem;
   font-size: 1.25rem;
-  margin-top: 1.5rem;
 }
 
 h4,
 h5,
 h6 {
-  font-size: 1rem;
   margin-top: 1rem;
+  font-size: 1rem;
 }
 
 p {
-  margin-bottom: 1rem;
   margin-top: 0;
+  margin-bottom: 1rem;
 }
 
 strong {
@@ -49,8 +49,8 @@ strong {
 ul,
 ol,
 dl {
-  margin-bottom: 1rem;
   margin-top: 0;
+  margin-bottom: 1rem;
 }
 
 dt {
@@ -58,62 +58,63 @@ dt {
 }
 
 dd {
-  margin-bottom: 0.5rem;
+  margin-bottom: .5rem;
 }
 
 hr {
-  border: 0;
-  border-bottom: 1px solid #fff;
-  border-top: 1px solid #eee;
-  margin: 1.5rem 0;
   position: relative;
+  margin: 5.5rem 0 1.5rem 0;
+  border: 0;
+  border-top: 1px solid #666;
+  border-bottom: 1px solid #ccc;
 }
 
 abbr {
-  color: #555;
   font-size: 85%;
   font-weight: bold;
+  color: #555;
   text-transform: uppercase;
 
   &[title] {
-    border-bottom: 1px dotted $border-color;
     cursor: help;
+    border-bottom: 1px dotted $border-color;
   }
 }
 
 blockquote {
-  border-left: 0.25rem solid $border-color;
+  padding: .5rem 1rem;
+  margin: .8rem 0;
   color: #7a7a7a;
-  margin: 0.8rem 0;
-  padding: 0.5rem 1rem;
+  border-left: .25rem solid $border-color;
 
   p:last-child {
     margin-bottom: 0;
   }
 
   @media (min-width: 30em) {
-    padding-left: 1.25rem;
     padding-right: 5rem;
+    padding-left: 1.25rem;
   }
 }
+
 
 // Markdown footnotes
 //
 // See the example content post for an example.
 
 // Footnote number within body text
-a[href^='#fn:'],
+a[href^="#fn:"],
 // Back to footnote link
-a[href^='#fnref:'] {
+a[href^="#fnref:"] {
   display: inline-block;
+  margin-left: .1rem;
   font-weight: bold;
-  margin-left: 0.1rem;
 }
 
 // List of footnotes
 .footnotes {
-  font-size: 85%;
   margin-top: 2rem;
+  font-size: 85%;
 }
 
 // Custom type
@@ -126,13 +127,13 @@ a[href^='#fnref:'] {
 }
 
 // SVG Icons
-a svg {
-  fill: $link-color;
-}
-
 a svg,
 .icon svg {
   height: 1em;
+}
+
+a svg {
+  fill: $link-color;
 }
 
 .icon {
