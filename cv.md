@@ -1,8 +1,8 @@
 ---
-layout: projects
+layout: CV
 title: CV
 sidebar_link: true
-sidebar_sort_order: 1
+sidebar_sort_order: 2
 ---
 
 <!-- You can download pdf version here: CV [[pdf]](/assets/documents/) -->
