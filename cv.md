@@ -36,7 +36,7 @@ sidebar_sort_order: 1
 ### Languages
 * Chinese (Native)
 * Korean (Native)
-* English (IELTS 7.0)
+* English ([IELTS](assets\images\ielts240403.png) 7.0)
 
 
 ### Interests
