@@ -12,12 +12,10 @@ sidebar_sort_order: 1
 	* Major: Artificial Intelligence
 	* GPA: 83.66/100
 
-### Honors & Awards
-* 1st Prize, Anhui Contest District in China Undergraduate Mathematical Contest in Modeling
-
-### Scholarships & Grants
-* Outstanding Student Scholarship (Grade 3) (Fall 2023)
-* Outstanding Student Scholarship (Grade 3) (Fall 2022)
+### Awards & Scholarships
+* 1st Prize, Anhui Contest District in China Undergraduate Mathematical Contest in Modeling (Fall 2023)
+* Outstanding Student Scholarship (Fall 2023)
+* Outstanding Student Scholarship (Fall 2022)
 
 ### Publications (*Corresponding Author of All Papers)
 
@@ -36,7 +34,7 @@ sidebar_sort_order: 1
 ### Languages
 * Chinese (Native)
 * Korean (Native)
-* English ([IELTS](https://needmoresunx.github.io/assets/images/ielts240403.png) 7.0)
+* English (Fluent, [IELTS](https://needmoresunx.github.io/assets/images/ielts240403.png) 7.0)
 
 
 ### Interests
