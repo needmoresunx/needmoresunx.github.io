@@ -5,9 +5,11 @@ sidebar_link: true
 ---
 
 <p class="message">
-  Hey there! This page is included as an example. Feel free to customize it
-  for your own use upon downloading. Carry on!
+  Hey there! This page is a brief introduction about me. If you would like to learn more, please click on the CV on the left!
 </p>
 
-To make pages show up in the sidebar, add `sidebar_link: true` to the front
-matter.
+<br>
+I am a senior student majoring in Artificial Intelligence at the University of Science and Technology of China.
+
+My research interests center around **Computer Vision** and **AI for Health**. 
+<br>

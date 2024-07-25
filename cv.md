@@ -1,5 +1,5 @@
 ---
-layout: CV
+layout: page
 title: CV
 sidebar_link: true
 sidebar_sort_order: 2
