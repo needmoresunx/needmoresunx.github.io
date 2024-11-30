@@ -24,7 +24,7 @@ sidebar_sort_order: 2
 ### Professional Experience
 
 ### Technical Skills
-* Programming Languages: C, C++, Python
+* Programming Languages: C, C++, Python, MATLAB
 * Machine Learning Frameworks: PyTorch, TensorFlow
 * Deep Learning Frameworks: Keras
 * Data Analysis Tools: Pandas, NumPy, Matplotlib, Seaborn

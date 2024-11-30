@@ -11,5 +11,7 @@ sidebar_link: true
 <br>
 I am a senior student majoring in Artificial Intelligence at the University of Science and Technology of China.
 
-My research interests center around **Computer Vision** and **AI for Health**. 
-<br>
+My research interests center around **AIGC**, **Efficient AI**, **Image Editing**. 
+
+I am currently looking for **PhD / research assistant** opportunity in the field of AI.
+<br>  
