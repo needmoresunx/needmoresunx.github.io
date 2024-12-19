@@ -7,8 +7,9 @@ sidebar_link: true
 <p class="message">
   Hey there! This page is a brief introduction about me. If you would like to learn more, please click on the CV on the left!
 
+
 Please feel free to contact me! 
-Mail: xhy28 [at] mail [dot] ustc [dot] edu [dot] cn
+Mail: **xhy28 [at] mail [dot] ustc [dot] edu [dot] cn**
 </p>
 
 <br>
