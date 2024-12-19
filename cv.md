@@ -20,7 +20,7 @@ sidebar_sort_order: 2
 ### Publications (*Corresponding Author of All Papers)
 
 ### Research Experience
-**Image Segmentation with Sparse Annotations** 
+* **Image Segmentation with Sparse Annotations** 
 
 (Research Assistant, 2024.01 ~ 2024.06) 
 
@@ -28,7 +28,7 @@ Supervisor: Prof. **Xuejin Chen**
 (Professor, School of Information Science and Technology, University of Science and Technology of China)
 
 
-**Exploring Efficient Methods for Accelerating Generative Visual Models** 
+* **Exploring Efficient Methods for Accelerating Generative Visual Models** 
 
 (Research Assistant, 2024.09 ~ Current) 
 
